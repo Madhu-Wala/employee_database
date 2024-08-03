@@ -24,5 +24,6 @@ Upon clicking on "Graph" button a graph pops up which is a bar graph representat
 Here is an image of Graph window based on availale data:![Python_projgraph](https://github.com/user-attachments/assets/b573aba3-9586-4f53-bb2c-139b37306b47)
 
 #Prerequisites:------------------------------------------------------------------------------------
+
 Needs installation of Python software of suitable version.
 Needs installation of matplotlib, pandas in the system.
