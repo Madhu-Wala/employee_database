@@ -1,4 +1,5 @@
 #Employee database-------------------------------------------------------------------------------
+
 This is a python project based GUI application that handles employee data like unique emmployee id(integer), Employee name (without spaces) and salary.
 This application has made use of modules in python like tkinter for GUI, sqlite3 for handling data in database file linked to it, requests, json, pandas, matplolib, and use of API.
 
