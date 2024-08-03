@@ -1,4 +1,4 @@
-#Employee database-------------------------------------------------------------------------------
+#Employee database
 
 This is a python project based GUI application that handles employee data like unique emmployee id(integer), Employee name (without spaces) and salary.
 This application has made use of modules in python like tkinter for GUI, sqlite3 for handling data in database file linked to it, requests, json, pandas, matplolib, and use of API.
@@ -23,7 +23,7 @@ Here is an image of Delete data window: ![Python_projdelete](https://github.com/
 Upon clicking on "Graph" button a graph pops up which is a bar graph representation of top five salaries present in the database with the corresponding employee name. 
 Here is an image of Graph window based on availale data:![Python_projgraph](https://github.com/user-attachments/assets/b573aba3-9586-4f53-bb2c-139b37306b47)
 
-#Prerequisites:------------------------------------------------------------------------------------
+#Prerequisites:
 
 Needs installation of Python software of suitable version.
 Needs installation of matplotlib, pandas in the system.
